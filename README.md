@@ -1,2 +1,2 @@
 # recipe_api_IEEE
-This an recipe website for IEEE JU chapter tech recruitment
+This is an recipe website for IEEE JU chapter tech recruitment
